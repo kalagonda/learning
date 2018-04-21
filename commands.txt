@@ -1,0 +1,4 @@
+git commands:
+
+git init - to initialize the git local repository.
+git remote add origin "https://github.com/kalagonda/learning.git" - to configure the cloud repository with local repository
