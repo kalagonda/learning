@@ -11,3 +11,7 @@ git log : tracking  committed files
 git branch branchname : to create a new branch
 git checkout name_of_the_branch : to switch to specified branch
 git status : to see the untracked/modified uncommitted files.
+git merge branch_name : merges to the checked out branch to branch_name
+git rebase branch_name : will to the same job of branch merge
+ssh-keygen : to generate the ssh key for cloud repository connection to our account
+ssh -T git@github.com : to authenticate ssh key with cloud repository
